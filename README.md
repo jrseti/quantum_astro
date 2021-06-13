@@ -6,3 +6,5 @@ This group is devloping novel experiments to explore quantum effects using radio
 ## Directories
 
 **drawings** contains diagrams, charts, etc. produced for this project.
+
+**spice** contains NAIF SPICE related utilities. Create SPICE kernels, etc.
